@@ -1,0 +1,54 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://elements-video-cover-images-0.imgix.net/files/236113193/BG+Abstract+590x332.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=d16dbd0f4a66abb333432c6df634d32a);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img{
+    width: 25px;
+    height: 25px;
+}
+.nation{
+    display: flex;
+}
+main{
+    border: 3px dashed #424874;
+    background-color: #f4eeff;
+    width: 800px;
+    padding: 0 10%;
+    margin: 0 auto;
+    border-radius: 20px;
+    position: relative;
+}
+.name{
+    border: 4px solid #424874;
+    background-color: #f4eeff;
+    margin: 50px auto;
+    padding: 30px 60px;
+    font-size:large;
+    width: 200px;
+    text-align: center;
+    border-radius: 30px;
+}
+.Musya{
+    border-radius: 50%;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    right: 90px;
+    top: 60px;
+}
+.ssilki{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 40px;
+    color: #424874;
+}
+.edu{
+    margin: 40px 0;
+}
+tr,td{
+    border-bottom: 1px solid #424874;
+    padding: 5px 10px;
+    width: 700px;
+}
